@@ -31,10 +31,10 @@ Ruby1.9+Rails3.2でブログシステム構築の練習をします。
 関連情報
 --------
 ### リンク
-1. [リンク1](http://dotinstall.com/lessons/basic_rails "ドットインストール【旧版】Ruby on Rails 3入門 (全46回)")
-    * ![画像1](http://github.com/unicorn.png "画像のタイトル")
-2. [リンク2][link]
-    - [![画像2][image]](https://github.com/)
+1. [ドットインストール【旧版】Ruby on Rails 3入門 (全46回)](http://dotinstall.com/lessons/basic_rails "この中のコメントはREADMEでは表示されないようだ")
+    * ![画像だけどこの文字も表示されていない](http://github.com/unicorn.png "画像のタイトルも表示されていない。画像だけ表示。")
+2. [READMEひな形の元][link]
+    - [![画像2][image](https://github.com/)
  
   [link]: http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/ "REAMDEのひな形"
   [image]: http://github.com/github.png "インデックス型の画像"
