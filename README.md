@@ -1,10 +1,8 @@
-プロジェクト・タイトル
+ブログシステムの練習
 ======================
-ここにプロジェクトの概要を書きます。
-行末にスペースを2つ入れると
-改行されます。
+Ruby1.9+Rails3.2でブログシステム構築の練習をします。  
+ついでにGitのREAMD.md記法も練習しています。
  
-段落を分けるには、[空行](http://example.com/) を入れます。
  
 使い方
 ------
@@ -32,13 +30,13 @@
  
 関連情報
 --------
-### リンク、ネストしたリスト
-1. [リンク1](http://example.com/ "リンクのタイトル")
+### リンク
+1. [リンク1](http://dotinstall.com/lessons/basic_rails "ドットインストール【旧版】Ruby on Rails 3入門 (全46回)")
     * ![画像1](http://github.com/unicorn.png "画像のタイトル")
 2. [リンク2][link]
     - [![画像2][image]](https://github.com/)
  
-  [link]: http://example.com/ "インデックス型のリンク"
+  [link]: http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/ "REAMDEのひな形"
   [image]: http://github.com/github.png "インデックス型の画像"
  
 ### 引用、ネストした引用
